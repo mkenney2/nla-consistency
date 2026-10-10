@@ -52,7 +52,7 @@ text(4, 55.6, "ceselder's open NLA on Qwen3.6-27B, layer 42  ·  500 WorkspaceBe
 
 for x, n, title in [(4, "1", "Agreement across samples filters confabulation"),
                     (56, "2", "...except errors the NLA repeats"),
-                    (108, "3", "The NLA drops specifics the activation holds")]:
+                    (108, "3", "A probe reads the digits; the NLA, their size")]:
     card(x, 3, 48, 48.5, fc="#ffffff", ec=GRID)
     ax.add_patch(plt.Circle((x + 3.2, 47.3), 1.55, color=INK, zorder=4))
     text(x + 3.2, 47.2, n, 10, "#ffffff", "bold", ha="center")
@@ -128,7 +128,8 @@ for g, (lab, p, n) in enumerate([("first operand a", 83, 5), ("second operand b"
         text(x0 + 15 + 0.27 * v + 0.8, yy, f"{v}%", 9.5, INK, "bold")
         if g == 0:
             text(x0 + 14.2, yy, who, 8.5, INK2, ha="right")
-text(x0 + 2.5, 6.4, "It keeps the rough size (r = 0.57) and invents the digits", 9.5, INK, "bold")
+text(x0 + 2.5, 6.9, "Swapping the model's operand subspace moves the NLA;", 9.5, INK, "bold")
+text(x0 + 2.5, 4.5, "swapping the probe's own directions does not", 9.5, INK, "bold")
 
 fig.savefig(OUT / "nla_abstract.png", facecolor=SURF)
 print("wrote", OUT / "nla_abstract.png")
