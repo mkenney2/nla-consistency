@@ -33,6 +33,8 @@ removal test does not work, though: mean-ablating the J++ directions of the word
 lens's top 2,000) barely lowers the claim's support (correct 6.5 → 6.0 of 8, wrong 4.3 → 3.5) and does not separate
 right from wrong claims (AUROC 0.49).
 
+![Which checks tell right from wrong claims](figures/checks.png)
+
 **2. The NLA reads what the model represents, causally but imprecisely, and whether or not the model uses it.** On 600 "a ± b =" prompts, a
 linear probe reads both operands from the layer-42 activation exactly 83–93% of the time. The NLA, reading the same
 vector (it never sees the prompt), always gets the operator right but the first operand only 5% of the time and the

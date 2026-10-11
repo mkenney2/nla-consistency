@@ -1,0 +1,1 @@
+{"n": [428, 66], "n_rep": [316, 28], "rows": [["8 samples", 0.7, 0.585], ["3 preceding tokens", 0.662, 0.679], ["samples + preceding", 0.755, 0.718], ["J++ lens", 0.777, 0.834], ["samples + preceding + lens", 0.806, 0.835], ["removal test", 0.488, 0.511]]}
