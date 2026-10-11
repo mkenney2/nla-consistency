@@ -28,9 +28,12 @@ random vectors 29% of the NLA's claims are self-consistent, so consistency is ev
 each family out in turn, the threshold rule re-selects ≥2 of 8 in four of five families and the held-out numbers
 match (38% → 12%, 86% kept). A lens adds a second, independent check: for claims that name a specific word,
 whether the [J++ Lens](https://www.lesswrong.com/posts/nc9dHfcB22JdMzGbr) ranks it in its top 50 at the same
-vector lifts the AUROC from 0.77 to 0.81 (0.72 to 0.83 among claims the NLA repeats, only 28 of them wrong).
+vector lifts the AUROC from 0.77 to 0.81 (0.72 to 0.83 among claims the NLA repeats, only 28 of them wrong). A
+removal test does not work, though: mean-ablating the J++ directions of the word a claim names (the word leaves the
+lens's top 2,000) barely lowers the claim's support (correct 6.5 → 6.0 of 8, wrong 4.3 → 3.5) and does not separate
+right from wrong claims (AUROC 0.49).
 
-**2. The NLA reads operands from the subspace the model uses, but imprecisely.** On 600 "a ± b =" prompts, a
+**2. The NLA reads what the model represents, causally but imprecisely, and whether or not the model uses it.** On 600 "a ± b =" prompts, a
 linear probe reads both operands from the layer-42 activation exactly 83–93% of the time. The NLA, reading the same
 vector (it never sees the prompt), always gets the operator right but the first operand only 5% of the time and the
 second 38%; its numbers keep the rough size (r = 0.57 and 0.88). [Dingeto (2026)](https://arxiv.org/abs/2607.20379)
@@ -46,6 +49,13 @@ probe-weight swaps never). So part of the probe's lead comes from directions nei
 the NLA uses; on the directions that matter, the NLA tracks the operand but imprecisely. A third reader agrees: the
 J++ Lens, unlike the J-Lens and R-Lens, reads the one-digit operand, and it follows the class-mean swap (40%;
 whole vector 51%) but not the probe-weight swap (2%) or random directions (1%).
+
+The same holds for content the model computes. In 75 two-hop prompts ("the capital of the country where the Eiffel
+Tower is located is"), swapping the bridge's lens direction for another's (France → Italy) at layers 20–40 changes
+the model's answer in 81% of pairs, and every NLA sample then names the new bridge. But the NLA names it just as
+reliably in the pairs where the model's answer does not change (14 of 14; over 90% of samples in a weaker pass where
+65 of 75 answers stayed the same). An NLA claim about an intermediate says it is represented, not that it drives the
+output; and adding a concept's direction steers the NLA, while removing it does not stop the NLA from naming it.
 
 Why NLAs confabulate (a reconstruction reward that pays for pseudo-quotes and ignores false specifics) is covered by
 [Anurin](https://www.lesswrong.com/posts/4nZwNPyfoadAxPH98/natural-language-autoencoders-are-summarizers-but-do-they),
@@ -71,7 +81,7 @@ uv run --no-project --with jupyter --with matplotlib jupyter lab notebook.ipynb
 ## Limitations
 
 One open NLA, one layer and checkpoint; claim labels from one Gemini judge (every wrong internal claim checked by
-hand); the preceding-token check also drops many correct claims; the arithmetic result covers operands, not computed results, and
+hand); the preceding-token check also drops many correct claims; the operand test covers one format, computed intermediates three two-hop templates (75 pairs), and
 "the model uses these directions" rests on one-digit operands (patching at "=" alone cannot change a two-digit answer). The
 internal-claim AUROC rests on three families (multihop, basic readout, poetry); typo and association have one
 wrong claim each.
