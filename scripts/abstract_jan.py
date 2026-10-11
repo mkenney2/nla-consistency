@@ -46,7 +46,7 @@ def arrow(x0, y0, x1, y1):
 text(4, 61.5, "Why NLA consensus is biased, and what perturbations can tell you", 19, weight="bold")
 text(4, 57.6, "ceselder's open NLA on Qwen3.6-27B, layer 42  ·  WorkspaceBench claims about internal computation  ·  "
      "75 two-hop swaps  ·  follow-up to consensus sampling (Bauer 2026)", 11, INK2)
-for x, n, title in [(4, "1", "Repeated errors misread something real"),
+for x, n, title in [(4, "1", "Repeated errors are consistent misreadings"),
                     (56, "2", "A different reader helps; resampling can't"),
                     (108, "3", "Adding steers the NLA; removing doesn't")]:
     card(x, 3, 48, 50.5, fc="#ffffff", ec=GRID)
@@ -56,31 +56,30 @@ for x, n, title in [(4, "1", "Repeated errors misread something real"),
 
 # ---- panel 1: the "10 - 1 =" example with the lens profile of "1"
 x0 = 4
-text(x0 + 2.5, 45.2, "Prompt “10 − 1 =”, then the model's answer “9”", 9.5, INK2)
-toks = ["1", "0", "−", "1", "=", "9"]
-strength = [0.0, 0.98, 0.0, 1.0, 0.0, 0.84]  # J++ score of the word "1" at each position, layer 42
-for k, (t, s_) in enumerate(zip(toks, strength)):
-    xx = x0 + 3 + k * 6.6
-    card(xx, 37.2, 5.6, 5.6, fc="#ffffff", ec=INK if k == 4 else GRID, r=0.6)
-    text(xx + 2.8, 40.0, t, 14, INK, "bold", ha="center", family=MONO)
-    rect(xx + 0.8, 31.6, 4.0, 0.12, GRID)
-    if s_ > 0:
-        rect(xx + 0.8, 31.6, 4.0, 4.6 * s_, ORANGE)
-    else:
-        text(xx + 2.8, 32.6, "0", 8.5, INK3, ha="center")
-text(x0 + 3 + 4 * 6.6 + 2.8, 29.9, "NLA reads here", 8.5, INK, "bold", ha="center")
-text(x0 + 2.5, 29.9, "lens shows “1”", 8.5, ORANGE, "bold")
-text(x0 + 2.5, 26.0, "NLA, 8 of 8 samples:", 9.5, INK2)
-text(x0 + 18.0, 26.0, "“…likely ‘1’”", 13, ORANGE, "bold", family=MONO)
-text(x0 + 2.5, 22.5, "The operand is salient; the NLA reads it as the answer.", 9.5, INK)
-text(x0 + 2.5, 19.2, "Claimed word peaks earlier in the prompt", 9.5, INK2)
-for i, (lab, v, c) in enumerate([("wrong claims", 65, ORANGE), ("correct claims", 33, BLUE)]):
-    yy = 15.8 - i * 3.3
-    rect(x0 + 15, yy - 1.05, v * 0.28, 2.1, c)
-    text(x0 + 15 + v * 0.28 + 0.8, yy, f"{v}%", 10, INK, "bold")
-    text(x0 + 14.2, yy, lab, 9, INK2, ha="right")
-text(x0 + 2.5, 8.7, "39 of 121 wrong claims repeat in ≥ 7 of 8 samples,", 9.5, INK, "bold")
-text(x0 + 2.5, 6.0, "and at neighbouring positions: the feature is real, its role is not", 9.5, INK, "bold")
+text(x0 + 2.5, 45.2, "The NLA misreads one detail, then reasons correctly from its copy", 9.5, INK2)
+text(x0 + 3.5, 41.6, "prompt", 8.5, INK3)
+text(x0 + 19.5, 41.6, "NLA reads it as", 8.5, INK3)
+text(x0 + 38.0, 41.6, "NLA's answer", 8.5, INK3)
+ex = [("10 − 1 =", "2 − 1 =", "1", "9"), ("6 − 2 =", "5 − 2 =", "3", "4"),
+      ("after Tuesday", "after Monday", "Tuesday", "Wednesday")]
+for k, (pr, cp, an, tr) in enumerate(ex):
+    yy = 37.4 - k * 5.4
+    card(x0 + 2.5, yy - 2.1, 43, 4.2, fc=CARD, r=0.6)
+    text(x0 + 3.5, yy, pr, 10, INK, "bold", family=MONO)
+    arrow(x0 + 16.2, yy, x0 + 18.8, yy)
+    text(x0 + 19.5, yy, cp, 10, ORANGE, "bold", family=MONO)
+    text(x0 + 38.0, yy, an, 10, ORANGE, "bold", family=MONO)
+text(x0 + 2.5, 19.6, "True answers: 9, 4, Wednesday. The same misreading recurs", 9.5, INK)
+text(x0 + 2.5, 17.1, "in 8 of 8 samples and at neighbouring token positions.", 9.5, INK)
+text(x0 + 2.5, 13.2, "Wrong claims about internal computation", 9.5, INK2)
+segs = [("vary across samples", 82, BLUE), ("repeat in ≥ 7 of 8", 39, ORANGE)]
+xx, W = x0 + 2.5, 43
+for lab_, n_, c_ in segs:
+    w_ = n_ / 121 * W
+    rect(xx + 0.15, 9.2, w_ - 0.3, 2.8, c_)
+    text(xx + w_ / 2, 10.6, f"{n_}  {lab_}", 9, "#ffffff", "bold", ha="center")
+    xx += w_
+text(x0 + 2.5, 6.0, "The feature is real; the NLA reads it imprecisely, and consistently", 9.5, INK, "bold")
 
 # ---- panel 2: AUROC on the repeated errors
 x0 = 56
