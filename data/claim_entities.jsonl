@@ -1,0 +1,721 @@
+{"key": "multihop|etym-caesar-monthnum|1", "entities": []}
+{"key": "multihop|nhop-spider-element|4", "entities": ["Silicon"]}
+{"key": "multihop|chem-photosynthesis-Z|5", "entities": ["7", "8"]}
+{"key": "multihop|inv-antarctica-opposite|6", "entities": ["north"]}
+{"key": "multihop|violin-strings|3", "entities": []}
+{"key": "multihop|inv-sunrise-opposite|3", "entities": ["west", "darkness", "night"]}
+{"key": "multihop|month-7-namedafter|7", "entities": ["Caesar"]}
+{"key": "multihop|atomic-26-symbol|3", "entities": ["Fe", "iron"]}
+{"key": "multihop|func-filters-count|2", "entities": []}
+{"key": "multihop|month-7-namedafter|3", "entities": ["July"]}
+{"key": "multihop|half-clock-hours|4", "entities": []}
+{"key": "multihop|holiday-valentines-monthnum|5", "entities": ["7"]}
+{"key": "multihop|nhop-cube-element|5", "entities": ["Oxygen", "Argon"]}
+{"key": "multihop|birthstone-emerald-month|4", "entities": ["5", "five"]}
+{"key": "multihop|atomic-26-symbol|5", "entities": ["Fe"]}
+{"key": "multihop|holiday-independence-monthnum|8", "entities": ["7"]}
+{"key": "multihop|firstletter-valentines-month|2", "entities": ["S", "A"]}
+{"key": "multihop|inv-sunrise-opposite|1", "entities": ["west"]}
+{"key": "multihop|chem-photosynthesis-Z|3", "entities": ["Oxygen", "8", "Nitrogen", "7"]}
+{"key": "multihop|holiday-christmas-monthnum|3", "entities": ["September", "9", "nine"]}
+{"key": "multihop|dbl-altitude-antonym|2", "entities": ["low", "ground-level", "small"]}
+{"key": "multihop|chem-organic-Z|7", "entities": ["6", "1"]}
+{"key": "multihop|holiday-independence-monthnum|6", "entities": ["10"]}
+{"key": "multihop|func-pumps-chambers|6", "entities": ["4"]}
+{"key": "multihop|month-7-namedafter|4", "entities": ["named after the Roman ruler Julius Caesar."]}
+{"key": "multihop|dbl-altitude-antonym|6", "entities": ["low", "concrete"]}
+{"key": "multihop|spider-legs|2", "entities": []}
+{"key": "multihop|holiday-independence-monthnum|3", "entities": ["7"]}
+{"key": "multihop|double-dice-faces|5", "entities": ["equal to...", "16"]}
+{"key": "multihop|nhop-cube-element|7", "entities": ["8", "silicon"]}
+{"key": "multihop|inv-roots-opposite|5", "entities": ["upward", "above", "sky"]}
+{"key": "multihop|bf-boot-capital|5", "entities": ["Italy"]}
+{"key": "multihop|bf-christmas-season|7", "entities": ["winter"]}
+{"key": "multihop|bf-boot-capital|3", "entities": ["Rome"]}
+{"key": "multihop|bf-rio2016-language|5", "entities": ["Portuguese"]}
+{"key": "multihop|bf-southpole-bird|2", "entities": ["Antarctica"]}
+{"key": "multihop|violin-strings|7", "entities": ["fiddle"]}
+{"key": "multihop|bf-giza-continent|2", "entities": ["Africa"]}
+{"key": "multihop|rhyme-tree-squared|5", "entities": ["three"]}
+{"key": "multihop|bf-giza-continent|4", "entities": []}
+{"key": "multihop|spaceneedle-border|3", "entities": ["Canada"]}
+{"key": "multihop|bf-eiffel-currency|1", "entities": []}
+{"key": "multihop|bf-eiffel-currency|7", "entities": ["Euro"]}
+{"key": "multihop|spaceneedle-border|6", "entities": ["Canada", "British Columbia"]}
+{"key": "multihop|bf-kathmandu-mountain|1", "entities": []}
+{"key": "multihop|bf-southpole-bird|4", "entities": ["penguin"]}
+{"key": "multihop|bf-madrid-language|6", "entities": ["Spanish"]}
+{"key": "poetry|couplet-divine-wine-to-sign|0", "entities": ["begin", "within", "grin"]}
+{"key": "multihop|bf-eiffel-currency|3", "entities": ["Euro", "euro"]}
+{"key": "multihop|bf-christmas-season|5", "entities": ["winter"]}
+{"key": "multihop|bf-madrid-language|3", "entities": ["Spanish"]}
+{"key": "multihop|inv-sunrise-opposite|8", "entities": []}
+{"key": "multihop|chem-bones-Z|3", "entities": []}
+{"key": "poetry|couplet-moon-soon|2", "entities": ["moon", "soon", "known"]}
+{"key": "multihop|spider-legs|4", "entities": ["eight", "a spider"]}
+{"key": "poetry|couplet-smoke-spoke|6", "entities": []}
+{"key": "poetry|couplet-crack-black|5", "entities": []}
+{"key": "poetry|couplet-scar-star|2", "entities": ["-ar", "-ore", "-are"]}
+{"key": "multihop|bf-madrid-language|8", "entities": []}
+{"key": "multihop|holiday-halloween-monthnum|4", "entities": []}
+{"key": "multihop|bf-bordeaux-fruit|3", "entities": ["grape"]}
+{"key": "poetry|couplet-mistake-make|0", "entities": ["make", "cake", "shake"]}
+{"key": "poetry|couplet-star-far|1", "entities": ["far", "scar", "jar", "are"]}
+{"key": "poetry|couplet-moon-soon|6", "entities": ["and"]}
+{"key": "multihop|nhop-rainbow-element|6", "entities": []}
+{"key": "multihop|nhop-spider-element|3", "entities": []}
+{"key": "poetry|couplet-divine-wine|4", "entities": []}
+{"key": "multihop|bf-christmas-season|11", "entities": ["winter"]}
+{"key": "poetry|bf-couplet-beast-feast|1", "entities": []}
+{"key": "poetry|bf-couplet-one-done|4", "entities": []}
+{"key": "poetry|bf-couplet-brick-wick|1", "entities": ["stick", "lick", "nick"]}
+{"key": "poetry|b3-po-dish-wish|1", "entities": ["wish", "fish", "quish"]}
+{"key": "poetry|b3-po-lake-wake|6", "entities": []}
+{"key": "poetry|couplet-tall-small|0", "entities": []}
+{"key": "poetry|couplet-throne-alone|0", "entities": []}
+{"key": "poetry|couplet-war-door|3", "entities": ["more", "before", "store"]}
+{"key": "multihop|bf-boot-capital|2", "entities": ["Italy"]}
+{"key": "poetry|couplet-known-grown|7", "entities": []}
+{"key": "poetry|b3-po-coat-throat|1", "entities": []}
+{"key": "poetry|b3-po-hill-still|1", "entities": []}
+{"key": "multihop|bf-moonwalk-firstname|3", "entities": ["Neil"]}
+{"key": "multihop|bf-boot-capital|6", "entities": ["Italy"]}
+{"key": "poetry|b3-po-bread-fed|4", "entities": []}
+{"key": "multihop|nhop-spider-element|1", "entities": ["the 8th element is"]}
+{"key": "poetry|b3-po-hill-still|4", "entities": []}
+{"key": "multihop|bf-kathmandu-mountain|2", "entities": ["Mount Everest"]}
+{"key": "multihop|bf-christmas-season|1", "entities": []}
+{"key": "poetry|b3-po-moon-soon|3", "entities": []}
+{"key": "poetry|b3-po-rug-snug|1", "entities": []}
+{"key": "typo|typo-across|2", "entities": ["across"]}
+{"key": "poetry|bf-couplet-beast-feast|4", "entities": []}
+{"key": "poetry|b3-po-grain-plain|5", "entities": []}
+{"key": "poetry|couplet-gray-day|2", "entities": []}
+{"key": "poetry|b3-po-rug-snug|7", "entities": []}
+{"key": "multihop|bf-madrid-language|2", "entities": ["Spain"]}
+{"key": "typo|typo-action|2", "entities": ["action"]}
+{"key": "typo|typo-account|10", "entities": ["account", "t"]}
+{"key": "typo|typo-February|7", "entities": ["February"]}
+{"key": "typo|typo-February|5", "entities": []}
+{"key": "poetry|b3-po-nail-mail|6", "entities": []}
+{"key": "typo|typo-address|4", "entities": ["address"]}
+{"key": "typo|typo-action|4", "entities": ["action"]}
+{"key": "poetry|b3-po-mouse-house|6", "entities": []}
+{"key": "typo|typo-account|7", "entities": ["account"]}
+{"key": "poetry|b3-po-pen-den|5", "entities": []}
+{"key": "multihop|bf-boot-capital|7", "entities": ["Rome"]}
+{"key": "poetry|b3-po-rose-nose|4", "entities": []}
+{"key": "poetry|b3-po-sand-hand|7", "entities": ["And", "The"]}
+{"key": "poetry|b3-po-rope-hope|1", "entities": ["go", "below", "show"]}
+{"key": "typo|typo-already|6", "entities": ["already"]}
+{"key": "poetry|b3-po-door-floor|1", "entities": []}
+{"key": "typo|typo-always|5", "entities": ["always"]}
+{"key": "poetry|b3-po-nail-mail|1", "entities": []}
+{"key": "typo|typo-because|3", "entities": ["because"]}
+{"key": "typo|typo-against|9", "entities": ["against"]}
+{"key": "typo|typo-because|8", "entities": ["because"]}
+{"key": "typo|typo-around|4", "entities": ["around"]}
+{"key": "typo|typo-company|7", "entities": ["as"]}
+{"key": "typo|typo-control|6", "entities": ["control"]}
+{"key": "typo|typo-course|3", "entities": ["course"]}
+{"key": "typo|typo-again|6", "entities": ["again"]}
+{"key": "typo|typo-control|1", "entities": ["control", "contorl"]}
+{"key": "typo|typo-division|5", "entities": ["department", "branch"]}
+{"key": "typo|typo-college|3", "entities": []}
+{"key": "typo|typo-field|2", "entities": ["field"]}
+{"key": "typo|typo-college|5", "entities": ["college"]}
+{"key": "typo|typo-different|4", "entities": ["different"]}
+{"key": "typo|typo-country|2", "entities": ["country"]}
+{"key": "typo|typo-field|5", "entities": ["field"]}
+{"key": "typo|typo-course|6", "entities": ["course"]}
+{"key": "typo|typo-another|4", "entities": ["another"]}
+{"key": "typo|typo-height|0", "entities": ["height"]}
+{"key": "typo|typo-business|4", "entities": ["business"]}
+{"key": "typo|typo-college|6", "entities": ["and", "with limited options"]}
+{"key": "typo|typo-football|8", "entities": ["l"]}
+{"key": "typo|typo-function|3", "entities": []}
+{"key": "typo|typo-across|5", "entities": []}
+{"key": "typo|typo-football|5", "entities": ["football"]}
+{"key": "typo|typo-future|4", "entities": ["firtture", "future"]}
+{"key": "typo|typo-family|4", "entities": ["family", "famille"]}
+{"key": "typo|typo-important|6", "entities": ["important"]}
+{"key": "typo|typo-although|4", "entities": []}
+{"key": "typo|typo-between|7", "entities": ["between"]}
+{"key": "typo|typo-great|6", "entities": ["great", "and"]}
+{"key": "typo|typo-human|3", "entities": ["human"]}
+{"key": "typo|typo-human|4", "entities": ["humanity", "human history"]}
+{"key": "poetry|b3-po-clock-knock|1", "entities": []}
+{"key": "typo|typo-human|6", "entities": ["human", "humman history/progress"]}
+{"key": "typo|typo-between|5", "entities": ["between"]}
+{"key": "typo|typo-account|5", "entities": ["account"]}
+{"key": "typo|typo-length|4", "entities": ["lenght", "length"]}
+{"key": "association|pt-carnaval|3", "entities": []}
+{"key": "typo|typo-future|8", "entities": ["future"]}
+{"key": "typo|typo-already|7", "entities": ["sold out", "running", "used"]}
+{"key": "typo|typo-island|3", "entities": ["island"]}
+{"key": "typo|typo-library|7", "entities": []}
+{"key": "typo|typo-division|6", "entities": ["division"]}
+{"key": "typo|typo-little|5", "entities": ["a little"]}
+{"key": "typo|typo-government|2", "entities": []}
+{"key": "association|child-h|1", "entities": []}
+{"key": "typo|typo-important|8", "entities": ["information", "data", "parameters"]}
+{"key": "typo|typo-across|6", "entities": ["the room", "the street"]}
+{"key": "typo|typo-level|6", "entities": ["level"]}
+{"key": "association|noir|0", "entities": []}
+{"key": "association|chess|0", "entities": []}
+{"key": "typo|typo-language|7", "entities": ["language"]}
+{"key": "association|child-h|3", "entities": []}
+{"key": "typo|typo-level|3", "entities": []}
+{"key": "association|lie|5", "entities": []}
+{"key": "association|bf-chess|0", "entities": []}
+{"key": "association|child-h|4", "entities": []}
+{"key": "association|poker|8", "entities": []}
+{"key": "association|bf-baseball|1", "entities": ["baseball"]}
+{"key": "association|film-h|10", "entities": []}
+{"key": "association|death-h|1", "entities": []}
+{"key": "typo|typo-course|5", "entities": []}
+{"key": "association|bf-halloween|7", "entities": []}
+{"key": "association|bf-olympics|6", "entities": ["London", "summer Olympics"]}
+{"key": "association|poker|6", "entities": []}
+{"key": "typo|typo-house|1", "entities": []}
+{"key": "typo|typo-library|3", "entities": []}
+{"key": "association|pregnant|5", "entities": []}
+{"key": "typo|typo-first|5", "entities": []}
+{"key": "association|bf-coffee|9", "entities": []}
+{"key": "association|bf-pizza|3", "entities": ["bread", "pizza"]}
+{"key": "association|bf-snow|7", "entities": []}
+{"key": "association|poker|1", "entities": []}
+{"key": "association|noir|3", "entities": []}
+{"key": "association|bf-wedding|0", "entities": []}
+{"key": "association|bf-olympics|0", "entities": []}
+{"key": "association|neighbors|6", "entities": []}
+{"key": "association|bf-chess|3", "entities": []}
+{"key": "association|bf-vampire|5", "entities": []}
+{"key": "association|bf-vampire|10", "entities": []}
+{"key": "typo|typo-company|3", "entities": ["company"]}
+{"key": "association|pennsylvania|4", "entities": ["Pennsylvania"]}
+{"key": "association|bf2-boxing|2", "entities": []}
+{"key": "association|bf-titanic|3", "entities": ["Titanic"]}
+{"key": "association|bf2-earthquake|2", "entities": []}
+{"key": "association|bf2-lighthouse|2", "entities": []}
+{"key": "association|b3-as-bakery|3", "entities": ["bakery", "kitchen"]}
+{"key": "association|b3-as-golf|2", "entities": []}
+{"key": "association|bf2-graduation|0", "entities": []}
+{"key": "association|b3-as-casino|3", "entities": ["casino", "Las Vegas"]}
+{"key": "association|b3-as-bakery|8", "entities": []}
+{"key": "association|b3-as-icarus|7", "entities": ["Icarus"]}
+{"key": "basic_readout|br-ent-ath-ali|0", "entities": ["boxing"]}
+{"key": "basic_readout|br-ent-ath-federer|4", "entities": ["tennis"]}
+{"key": "association|b3-as-icarus|0", "entities": ["Icarus"]}
+{"key": "basic_readout|br-ent-ath-james|1", "entities": ["basketball"]}
+{"key": "basic_readout|br-ent-ath-messi|3", "entities": ["football", "soccer"]}
+{"key": "association|bf-vampire|8", "entities": ["a vampire"]}
+{"key": "basic_readout|br-ent-ath-brady|5", "entities": ["football", "American football"]}
+{"key": "basic_readout|br-ent-ath-james|7", "entities": ["basketball"]}
+{"key": "association|bf-olympics|4", "entities": []}
+{"key": "basic_readout|br-ent-ath-nadal|2", "entities": ["tennis"]}
+{"key": "basic_readout|br-ent-ath-brady|3", "entities": ["American football"]}
+{"key": "association|b3-as-golf|7", "entities": []}
+{"key": "association|bf-titanic|9", "entities": ["Titanic"]}
+{"key": "basic_readout|br-ent-ath-ronaldo|4", "entities": ["football", "soccer"]}
+{"key": "basic_readout|br-ent-ath-jordan|7", "entities": ["basketball"]}
+{"key": "basic_readout|br-ent-ath-gretzky|2", "entities": ["hockey"]}
+{"key": "basic_readout|br-ent-ath-ronaldo|2", "entities": ["football", "soccer"]}
+{"key": "basic_readout|br-ent-ath-jordan|4", "entities": ["basketball"]}
+{"key": "basic_readout|br-ent-ath-jordan|1", "entities": ["basketball"]}
+{"key": "basic_readout|br-ent-ath-ruth|5", "entities": ["baseball"]}
+{"key": "association|bf2-lighthouse|6", "entities": []}
+{"key": "basic_readout|br-ent-ath-nadal|4", "entities": ["tennis"]}
+{"key": "basic_readout|br-ent-ath-ronaldo|6", "entities": ["Football"]}
+{"key": "basic_readout|br-ent-ath-ruth|3", "entities": ["baseball"]}
+{"key": "basic_readout|br-ent-ath-williams|1", "entities": ["tennis"]}
+{"key": "association|bf-halloween|2", "entities": []}
+{"key": "basic_readout|br-ent-ath-woods|2", "entities": ["golf"]}
+{"key": "basic_readout|br-ent-ath-williams|4", "entities": ["tennis"]}
+{"key": "basic_readout|br-ent-cap-athens|2", "entities": ["Greece"]}
+{"key": "association|film-h|7", "entities": []}
+{"key": "basic_readout|br-ent-cap-athens|5", "entities": ["Greece", "the Hellenic Republic"]}
+{"key": "basic_readout|br-ent-cap-athens|7", "entities": ["Greece"]}
+{"key": "basic_readout|br-ent-ath-gretzky|5", "entities": ["ice hockey", "hockey"]}
+{"key": "basic_readout|br-ent-cap-ottawa|6", "entities": ["Canada"]}
+{"key": "basic_readout|br-ent-cap-cairo|4", "entities": ["Egypt"]}
+{"key": "basic_readout|br-ent-cap-berlin|2", "entities": ["Germany"]}
+{"key": "basic_readout|br-ent-cap-madrid|6", "entities": ["Spain"]}
+{"key": "basic_readout|br-ent-cap-berlin|5", "entities": ["Germany"]}
+{"key": "basic_readout|br-ent-cap-nairobi|2", "entities": ["Kenya"]}
+{"key": "basic_readout|br-ent-cap-cairo|5", "entities": ["Egypt"]}
+{"key": "basic_readout|br-ent-ath-ruth|8", "entities": ["baseball"]}
+{"key": "basic_readout|br-ent-cap-berlin|3", "entities": ["Germany"]}
+{"key": "basic_readout|br-ent-cap-nairobi|7", "entities": ["Kenya"]}
+{"key": "basic_readout|br-ent-cap-moscow|1", "entities": ["Russia"]}
+{"key": "basic_readout|br-ent-cap-ottawa|3", "entities": ["Canada"]}
+{"key": "basic_readout|br-ent-cap-tokyo|1", "entities": ["Japan"]}
+{"key": "basic_readout|br-ent-cap-rome|4", "entities": ["Italy"]}
+{"key": "basic_readout|br-ent-cap-paris|4", "entities": ["France"]}
+{"key": "basic_readout|br-ent-cap-cairo|3", "entities": ["Egypt"]}
+{"key": "basic_readout|br-ent-cap-moscow|3", "entities": ["Russia"]}
+{"key": "typo|typo-great|3", "entities": []}
+{"key": "basic_readout|br-ent-lmk-colosseum|8", "entities": ["Italy", "Rome"]}
+{"key": "basic_readout|br-ent-lmk-big|2", "entities": ["Britain", "the UK"]}
+{"key": "basic_readout|br-ent-ath-federer|0", "entities": ["tennis"]}
+{"key": "basic_readout|br-ent-cap-ottawa|8", "entities": ["Canada"]}
+{"key": "basic_readout|br-ent-cap-madrid|4", "entities": ["Spain", "the Kingdom of Spain"]}
+{"key": "basic_readout|br-ent-ath-woods|6", "entities": ["golf"]}
+{"key": "basic_readout|br-ent-lmk-great|5", "entities": ["Egypt"]}
+{"key": "basic_readout|br-ent-lmk-eiffel|7", "entities": ["France"]}
+{"key": "basic_readout|br-ent-lmk-christ|8", "entities": ["Brazil"]}
+{"key": "basic_readout|br-ent-lmk-taj|0", "entities": ["India"]}
+{"key": "basic_readout|br-ent-ath-ali|6", "entities": ["boxing"]}
+{"key": "basic_readout|br-ent-mus-beethoven|2", "entities": ["piano", "orchestra"]}
+{"key": "basic_readout|br-ent-cap-nairobi|4", "entities": ["Kenya"]}
+{"key": "basic_readout|br-ent-cap-paris|6", "entities": ["France"]}
+{"key": "basic_readout|br-ent-lmk-sydney|4", "entities": ["Australia"]}
+{"key": "basic_readout|br-ent-mus-armstrong|4", "entities": ["trumpet"]}
+{"key": "basic_readout|br-ent-mus-hendrix|5", "entities": ["Fender Stratocaster", "electric guitar"]}
+{"key": "basic_readout|br-ent-mus-hendrix|9", "entities": []}
+{"key": "basic_readout|br-ent-mus-ma|3", "entities": ["cello"]}
+{"key": "basic_readout|br-ent-mus-beethoven|4", "entities": ["Piano"]}
+{"key": "basic_readout|br-ent-lmk-christ|3", "entities": ["Brazil"]}
+{"key": "basic_readout|br-ent-mus-john|2", "entities": ["piano"]}
+{"key": "basic_readout|br-ent-lmk-colosseum|5", "entities": ["Italy"]}
+{"key": "basic_readout|br-ent-mus-ma|6", "entities": ["cello"]}
+{"key": "basic_readout|br-proc-arith-2_3|5", "entities": ["6"]}
+{"key": "basic_readout|br-ent-mus-john|6", "entities": ["piano", "grand piano"]}
+{"key": "basic_readout|br-ent-mus-john|4", "entities": ["grand piano"]}
+{"key": "basic_readout|br-proc-arith-10-1|5", "entities": ["1"]}
+{"key": "basic_readout|br-ent-mus-armstrong|6", "entities": ["trumpet"]}
+{"key": "basic_readout|br-proc-arith-4_2|2", "entities": ["8"]}
+{"key": "basic_readout|br-ent-lmk-sydney|1", "entities": ["Australia"]}
+{"key": "basic_readout|br-proc-arith-2_2|1", "entities": ["4"]}
+{"key": "basic_readout|br-ent-cap-paris|1", "entities": []}
+{"key": "basic_readout|br-proc-arith-2_3|3", "entities": ["6"]}
+{"key": "basic_readout|br-proc-arith-2_3|2", "entities": ["6"]}
+{"key": "basic_readout|br-ent-lmk-taj|5", "entities": ["India"]}
+{"key": "typo|typo-length|9", "entities": ["length"]}
+{"key": "basic_readout|br-ent-mus-davis|3", "entities": ["trumpet"]}
+{"key": "basic_readout|br-proc-arith-10-1|1", "entities": ["1"]}
+{"key": "basic_readout|br-ent-lmk-eiffel|1", "entities": ["France"]}
+{"key": "multihop|b3-mh-buenosaires-language|1", "entities": []}
+{"key": "multihop|bf-whitebear-ocean|9", "entities": ["polar bears"]}
+{"key": "multihop|bf-stopsign-sides|4", "entities": ["octagon", "8"]}
+{"key": "multihop|b3-mh-fjords-capital|2", "entities": ["Oslo"]}
+{"key": "multihop|bf-stopsign-sides|6", "entities": ["8", "exactly eight"]}
+{"key": "multihop|b3-mh-colosseum-capital|1", "entities": ["Italy"]}
+{"key": "multihop|b3-mh-goldengate-ocean|3", "entities": ["Pacific"]}
+{"key": "multihop|bf-sushi-capital|4", "entities": ["Tokyo", "Japan"]}
+{"key": "multihop|b3-mh-eiffel-capital|5", "entities": []}
+{"key": "multihop|b3-mh-fuji-currency|0", "entities": ["yen"]}
+{"key": "multihop|b3-mh-guinness-capital|4", "entities": ["Dublin"]}
+{"key": "multihop|bf-whitebear-ocean|4", "entities": ["Arctic Ocean"]}
+{"key": "multihop|b3-mh-goldengate-ocean|5", "entities": ["Pacific Ocean"]}
+{"key": "multihop|b3-mh-kangaroo-ocean|3", "entities": ["Indian Ocean"]}
+{"key": "multihop|b3-mh-colosseum-capital|5", "entities": []}
+{"key": "multihop|b3-mh-griffithobservatory-state|7", "entities": ["California"]}
+{"key": "multihop|b3-mh-greatwall-river|3", "entities": []}
+{"key": "multihop|b3-mh-kiwi-capital|3", "entities": ["New Zealand"]}
+{"key": "multihop|b3-mh-kiwi-capital|7", "entities": ["New Zealand"]}
+{"key": "multihop|b3-mh-griffithobservatory-state|4", "entities": ["California"]}
+{"key": "multihop|b3-mh-kremlin-language|4", "entities": ["Russia"]}
+{"key": "multihop|b3-mh-kilts-capital|7", "entities": ["Edinburgh"]}
+{"key": "multihop|b3-mh-gravity-fruit|4", "entities": ["apple"]}
+{"key": "multihop|b3-mh-kremlin-language|5", "entities": ["Russian"]}
+{"key": "multihop|b3-mh-sphinx-capital|5", "entities": ["Egypt"]}
+{"key": "multihop|b3-mh-samba-river|1", "entities": []}
+{"key": "multihop|b3-mh-kremlin-language|8", "entities": ["Russian"]}
+{"key": "multihop|b3-mh-liberty-river|3", "entities": ["Hudson River", "New York Harbor"]}
+{"key": "multihop|b3-mh-kremlin-language|10", "entities": ["Russian"]}
+{"key": "multihop|b3-mh-gravity-fruit|6", "entities": ["Newton's apple"]}
+{"key": "multihop|b3-mh-kiwi-capital|5", "entities": ["Wellington"]}
+{"key": "multihop|b3-mh-kilts-capital|1", "entities": ["Scotland", "Edinburgh"]}
+{"key": "multihop|b3-mh-lisbon-language|1", "entities": []}
+{"key": "multihop|b3-mh-sphinx-capital|7", "entities": ["Egypt", "Africa"]}
+{"key": "multihop|b3-mh-liberty-river|5", "entities": ["Hudson River", "harbor", "New York Harbor"]}
+{"key": "multihop|b3-mh-liberty-river|7", "entities": ["New York Harbor"]}
+{"key": "multihop|b3-mh-tulips-capital|3", "entities": ["Netherlands"]}
+{"key": "multihop|b3-mh-samba-river|5", "entities": ["Amazon"]}
+{"key": "multihop|b3-mh-tajmahal-river|4", "entities": ["Ganges", "Ganga"]}
+{"key": "multihop|b3-mh-longestriver-sea|2", "entities": []}
+{"key": "multihop|basketball-players|2", "entities": ["basketball"]}
+{"key": "multihop|b3-mh-zeus-country|3", "entities": ["Greece"]}
+{"key": "multihop|b3-mh-zeus-country|2", "entities": ["Olympus"]}
+{"key": "multihop|carnival-ocean|1", "entities": ["Brazil"]}
+{"key": "multihop|b3-mh-tajmahal-river|7", "entities": ["Ganges", "Ganga"]}
+{"key": "multihop|b3-mh-lisbon-language|3", "entities": ["Portuguese"]}
+{"key": "multihop|b3-mh-samba-river|3", "entities": ["Amazon", "São Paulo"]}
+{"key": "multihop|b3-mh-tulips-capital|7", "entities": ["Amsterdam"]}
+{"key": "multihop|b3-mh-tulips-capital|4", "entities": ["Amsterdam"]}
+{"key": "multihop|b3-mh-bakerstreet-city|2", "entities": ["Sherlock Holmes"]}
+{"key": "multihop|b3-mh-colosseum-capital|2", "entities": ["Rome"]}
+{"key": "multihop|b3-mh-eiffel-capital|6", "entities": ["Paris"]}
+{"key": "multihop|bf-eiffel-continent|4", "entities": ["Europe"]}
+{"key": "multihop|b3-mh-sphinx-capital|2", "entities": []}
+{"key": "multihop|nhop-soccer-element|6", "entities": ["Iron", "Nickel"]}
+{"key": "multihop|firstletter-greatwall-country|4", "entities": ["C"]}
+{"key": "multihop|bf-kangaroo-capital|6", "entities": ["Canberra"]}
+{"key": "multihop|b3-mh-nokia-capital|6", "entities": ["Finland", "Norway"]}
+{"key": "multihop|firstletter-greatwall-country|2", "entities": ["C", "China"]}
+{"key": "multihop|bf-sushi-capital|10", "entities": ["Tokyo"]}
+{"key": "multihop|b3-mh-eiffel-capital|8", "entities": []}
+{"key": "multihop|dual-stars-visible-opposite|3", "entities": ["daytime"]}
+{"key": "multihop|super-smallest-continent|2", "entities": ["Europe"]}
+{"key": "multihop|bf-eiffel-continent|2", "entities": ["Europe"]}
+{"key": "multihop|bf-kangaroo-capital|9", "entities": ["Australia", "Australian"]}
+{"key": "multihop|bf-olympia-language|1", "entities": ["Greece"]}
+{"key": "multihop|bf-sphinx-river|4", "entities": ["the Nile"]}
+{"key": "multihop|bf-eiffel-continent|1", "entities": ["Eiffel Tower", "France"]}
+{"key": "multihop|bf-whitebear-ocean|7", "entities": ["Arctic Ocean"]}
+{"key": "multihop|bf-mapleleaf-capital|2", "entities": ["Canada"]}
+{"key": "multihop|bf-mapleleaf-capital|5", "entities": ["Canada"]}
+{"key": "multihop|nhop-soccer-element|4", "entities": []}
+{"key": "multihop|bf-olympia-language|2", "entities": []}
+{"key": "multihop|bf-olympia-language|6", "entities": ["spoken", "Greek"]}
+{"key": "multihop|b3-mh-lego-capital|3", "entities": []}
+{"key": "multihop|bf-olympia-language|4", "entities": ["Modern Greek"]}
+{"key": "multihop|b3-mh-buenosaires-language|3", "entities": ["Spanish"]}
+{"key": "multihop|b3-mh-tallest-continent|5", "entities": ["Asia"]}
+{"key": "multihop|b3-mh-redplanet-moons|2", "entities": ["Mars"]}
+{"key": "multihop|b3-mh-acropolis-capital|8", "entities": ["Greece"]}
+{"key": "multihop|bf-sphinx-river|3", "entities": ["Egypt"]}
+{"key": "multihop|b3-mh-pizza-continent|6", "entities": ["Europe"]}
+{"key": "multihop|b3-mh-ikea-capital|6", "entities": ["Stockholm", "Oslo"]}
+{"key": "multihop|b3-mh-operahouse-country|4", "entities": ["Australia"]}
+{"key": "multihop|bf-mapleleaf-capital|3", "entities": ["Canada"]}
+{"key": "multihop|b3-mh-redplanet-moons|8", "entities": ["Phobos", "Deimos", "2"]}
+{"key": "multihop|super-smallest-continent|1", "entities": []}
+{"key": "multihop|b3-mh-operahouse-country|2", "entities": ["Australia", "New Zealand"]}
+{"key": "multihop|bf-kangaroo-capital|4", "entities": ["Canberra"]}
+{"key": "multihop|b3-mh-fjords-capital|6", "entities": ["Oslo"]}
+{"key": "multihop|colosseum-currency|1", "entities": []}
+{"key": "multihop|b3-mh-lego-capital|6", "entities": ["Copenhagen", "Oslo"]}
+{"key": "multihop|bf-colosseum-language|4", "entities": ["Italy"]}
+{"key": "multihop|colosseum-currency|3", "entities": ["euro", "lira"]}
+{"key": "multihop|b3-mh-tallest-continent|1", "entities": ["Asia"]}
+{"key": "multihop|roman-rings-olympic|3", "entities": ["V", "5"]}
+{"key": "multihop|bf-colosseum-language|10", "entities": []}
+{"key": "basic_readout|br-ent-mus-john|7", "entities": []}
+{"key": "multihop|b3-mh-cuckoo-mountains|0", "entities": []}
+{"key": "multihop|dual-photosynthesis-opposite|3", "entities": ["night"]}
+{"key": "multihop|bf-nile-desert|7", "entities": ["Sahara Desert"]}
+{"key": "multihop|dbl-armistice-antonym|4", "entities": ["peace"]}
+{"key": "multihop|bf-greatwall-language|2", "entities": ["China"]}
+{"key": "multihop|b3-mh-aztec-language|3", "entities": ["Mexico"]}
+{"key": "multihop|bf-greatwall-language|3", "entities": ["Chinese", "Mandarin"]}
+{"key": "multihop|b3-mh-blindpoet-epic|9", "entities": ["Homer"]}
+{"key": "multihop|bf-tajmahal-continent|2", "entities": ["Asia"]}
+{"key": "multihop|bf-tajmahal-continent|3", "entities": ["India"]}
+{"key": "multihop|firstletter-populous-country|5", "entities": ["C", "the letter", "same as"]}
+{"key": "multihop|b3-mh-aztec-language|2", "entities": ["Spanish"]}
+{"key": "multihop|bf-relativity-firstname|6", "entities": ["Albert", "Isaac", "Niels"]}
+{"key": "multihop|bf-relativity-firstname|3", "entities": ["Albert Einstein", "Isaac Newton"]}
+{"key": "multihop|bf-nile-desert|3", "entities": ["Sahara Desert"]}
+{"key": "poetry|b3-po-sleep-deep|4", "entities": []}
+{"key": "poetry|b3-po-wheat-heat|6", "entities": []}
+{"key": "poetry|b3-po-sky-fly|0", "entities": ["fly", "lie", "by"]}
+{"key": "multihop|bf-greatwall-language|6", "entities": ["China", "Mandarin"]}
+{"key": "basic_readout|br-proc-arith-3_4|1", "entities": ["8"]}
+{"key": "poetry|b3-po-wheat-heat|1", "entities": []}
+{"key": "poetry|couplet-breath-death|0", "entities": []}
+{"key": "basic_readout|br-proc-arith-2_2|3", "entities": ["4"]}
+{"key": "multihop|bf-tajmahal-continent|1", "entities": []}
+{"key": "multihop|b3-mh-aztec-language|8", "entities": ["Spanish", "Nahuatl"]}
+{"key": "multihop|dbl-armistice-antonym|1", "entities": []}
+{"key": "poetry|b3-po-thread-bed|1", "entities": []}
+{"key": "poetry|b3-po-song-long|1", "entities": []}
+{"key": "multihop|b3-mh-windycity-state|3", "entities": ["Illinois"]}
+{"key": "poetry|b3-po-wheat-heat|5", "entities": ["As..."]}
+{"key": "multihop|b3-mh-windycity-state|6", "entities": []}
+{"key": "poetry|b3-po-wall-fall|1", "entities": []}
+{"key": "poetry|b3-po-well-fell|0", "entities": ["hell", "spell", "tell"]}
+{"key": "poetry|b3-po-snow-go|1", "entities": []}
+{"key": "poetry|couplet-eyes-lies|2", "entities": ["lies", "eyes", "skies"]}
+{"key": "poetry|couplet-hook-book|2", "entities": ["-ook"]}
+{"key": "poetry|couplet-frame-same|4", "entities": ["-aim", "-ame"]}
+{"key": "poetry|b3-po-storm-warm|0", "entities": []}
+{"key": "basic_readout|br-proc-arith-4_2|5", "entities": ["4"]}
+{"key": "poetry|couplet-shook-took|1", "entities": ["look", "brook", "hook"]}
+{"key": "poetry|couplet-chase-face|6", "entities": []}
+{"key": "poetry|couplet-mind-find|1", "entities": ["find", "bind", "kind"]}
+{"key": "poetry|couplet-dead-red|2", "entities": []}
+{"key": "poetry|couplet-fate-great|5", "entities": []}
+{"key": "poetry|couplet-fight-light|1", "entities": []}
+{"key": "multihop|b3-mh-acropolis-capital|2", "entities": ["Greece"]}
+{"key": "poetry|couplet-fear-near|5", "entities": []}
+{"key": "poetry|couplet-time-climb|1", "entities": ["climb", "crime", "dime"]}
+{"key": "poetry|couplet-sleep-deep|6", "entities": []}
+{"key": "poetry|b3-po-night-light|6", "entities": []}
+{"key": "poetry|bf-couplet-gold-told|1", "entities": ["plays"]}
+{"key": "poetry|couplet-sleep-deep|4", "entities": ["-leap", "keep", "deep"]}
+{"key": "poetry|couplet-gown-down|6", "entities": []}
+{"key": "poetry|b3-po-door-roar|8", "entities": ["And..."]}
+{"key": "poetry|couplet-white-write|3", "entities": []}
+{"key": "poetry|b3-po-tune-june|1", "entities": []}
+{"key": "basic_readout|br-proc-arith-4_2|7", "entities": ["8"]}
+{"key": "poetry|couplet-sun-done|4", "entities": []}
+{"key": "poetry|couplet-sun-done|1", "entities": []}
+{"key": "poetry|b3-po-sea-free|5", "entities": []}
+{"key": "poetry|bf-couplet-day-hay|0", "entities": []}
+{"key": "poetry|b3-po-heart-start|4", "entities": []}
+{"key": "poetry|couplet-chase-face|1", "entities": []}
+{"key": "poetry|b3-po-street-feet|4", "entities": []}
+{"key": "poetry|couplet-hold-old|1", "entities": ["old", "hold", "bold"]}
+{"key": "poetry|b3-po-door-roar|0", "entities": []}
+{"key": "poetry|couplet-heart-art|0", "entities": ["start", "art", "chart"]}
+{"key": "poetry|b3-po-street-feet|0", "entities": ["seen", "green", "clean", "machine"]}
+{"key": "poetry|couplet-rain-pain|7", "entities": []}
+{"key": "poetry|couplet-base-case|2", "entities": ["pace", "race", "face", "case"]}
+{"key": "typo|typo-major|3", "entities": ["major"]}
+{"key": "typo|typo-number|3", "entities": ["number"]}
+{"key": "poetry|couplet-grow-show|6", "entities": []}
+{"key": "typo|typo-message|4", "entities": ["mesage", "message"]}
+{"key": "typo|typo-night|5", "entities": ["night"]}
+{"key": "poetry|b3-po-milk-silk|6", "entities": []}
+{"key": "typo|typo-million|6", "entities": ["million"]}
+{"key": "poetry|couplet-crown-town|1", "entities": []}
+{"key": "poetry|couplet-forget-get|5", "entities": ["-et", "-ate"]}
+{"key": "typo|typo-market|4", "entities": ["market"]}
+{"key": "poetry|b3-po-door-roar|1", "entities": []}
+{"key": "typo|typo-million|3", "entities": ["million"]}
+{"key": "typo|typo-million|4", "entities": ["dollars", "pounds"]}
+{"key": "typo|typo-model|7", "entities": ["model"]}
+{"key": "basic_readout|br-proc-arith-3_4|4", "entities": ["7"]}
+{"key": "typo|typo-often|8", "entities": ["often"]}
+{"key": "basic_readout|br-ent-mus-davis|6", "entities": ["trumpet"]}
+{"key": "poetry|couplet-rain-pain|3", "entities": []}
+{"key": "typo|typo-power|2", "entities": ["power"]}
+{"key": "typo|typo-night|9", "entities": ["He worked late into the night"]}
+{"key": "typo|typo-present|5", "entities": ["present"]}
+{"key": "poetry|couplet-shoe-blue|7", "entities": ["blue"]}
+{"key": "typo|typo-position|3", "entities": ["position"]}
+{"key": "typo|typo-power|1", "entities": ["power"]}
+{"key": "typo|typo-really|3", "entities": ["really"]}
+{"key": "typo|typo-original|6", "entities": ["documents", "artifacts"]}
+{"key": "typo|typo-right|3", "entities": ["right"]}
+{"key": "typo|typo-people|7", "entities": ["people"]}
+{"key": "typo|typo-power|4", "entities": ["supply", "grid"]}
+{"key": "typo|typo-product|5", "entities": ["product line", "launch"]}
+{"key": "typo|typo-order|7", "entities": ["order"]}
+{"key": "typo|typo-people|10", "entities": []}
+{"key": "basic_readout|br-proc-arith-2_2|5", "entities": ["4"]}
+{"key": "typo|typo-product|3", "entities": ["t"]}
+{"key": "typo|typo-search|6", "entities": ["search"]}
+{"key": "typo|typo-project|2", "entities": ["project"]}
+{"key": "typo|typo-search|2", "entities": ["search"]}
+{"key": "poetry|couplet-flame-name|1", "entities": ["-ame"]}
+{"key": "typo|typo-really|6", "entities": ["sure", "understanding", "finished"]}
+{"key": "typo|typo-original|3", "entities": ["original"]}
+{"key": "typo|typo-science|10", "entities": ["Science"]}
+{"key": "typo|typo-second|8", "entities": ["second"]}
+{"key": "typo|typo-property|3", "entities": ["propperty"]}
+{"key": "typo|typo-science|8", "entities": ["e", "science", "Science"]}
+{"key": "typo|typo-review|6", "entities": []}
+{"key": "typo|typo-several|2", "entities": ["several"]}
+{"key": "typo|typo-short|3", "entities": ["short"]}
+{"key": "typo|typo-second|3", "entities": ["second"]}
+{"key": "typo|typo-model|3", "entities": []}
+{"key": "typo|typo-really|8", "entities": []}
+{"key": "multihop|b3-mh-blindpoet-epic|5", "entities": ["the Odyssey", "Homer's works"]}
+{"key": "typo|typo-those|4", "entities": ["those"]}
+{"key": "typo|typo-second|5", "entities": ["place", "order", "to"]}
+{"key": "multihop|b3-mh-blindpoet-epic|1", "entities": []}
+{"key": "typo|typo-support|6", "entities": ["support"]}
+{"key": "typo|typo-study|6", "entities": ["study"]}
+{"key": "typo|typo-those|8", "entities": ["files", "items"]}
+{"key": "typo|typo-since|8", "entities": ["he", "scince"]}
+{"key": "typo|typo-special|4", "entities": ["special"]}
+{"key": "typo|typo-until|2", "entities": []}
+{"key": "typo|typo-since|2", "entities": ["since"]}
+{"key": "typo|typo-running|5", "entities": ["running"]}
+{"key": "typo|typo-study|7", "entities": ["for"]}
+{"key": "typo|typo-village|4", "entities": ["village"]}
+{"key": "typo|typo-something|6", "entities": ["some thing"]}
+{"key": "typo|typo-success|4", "entities": [".", ",", "ful", "s"]}
+{"key": "typo|typo-without|4", "entities": ["out"]}
+{"key": "typo|typo-training|4", "entities": ["training"]}
+{"key": "typo|typo-would|4", "entities": ["would"]}
+{"key": "typo|typo-source|1", "entities": []}
+{"key": "typo|typo-without|3", "entities": ["without"]}
+{"key": "typo|typo-young|5", "entities": ["when she was very young"]}
+{"key": "typo|typo-world|5", "entities": ["world"]}
+{"key": "typo|typo-short|5", "entities": []}
+{"key": "typo|typo-training|5", "entities": ["successfully", "period", "program"]}
+{"key": "typo|typo-write|7", "entities": ["wrong", "write"]}
+{"key": "typo|typo-write|6", "entities": ["write"]}
+{"key": "typo|typo-would|7", "entities": ["write", "send", "know"]}
+{"key": "typo|bf-typo-schedule|7", "entities": ["ly", "schedule"]}
+{"key": "typo|bf-typo-sugar|4", "entities": ["suger", "sugar"]}
+{"key": "typo|typo-second|4", "entities": ["second"]}
+{"key": "multihop|b3-mh-eiffel-capital|3", "entities": ["Paris"]}
+{"key": "typo|typo-source|4", "entities": ["source"]}
+{"key": "typo|typo-young|7", "entities": ["young"]}
+{"key": "typo|typo-success|2", "entities": []}
+{"key": "basic_readout|br-ent-mus-ma|2", "entities": []}
+{"key": "typo|typo-young|3", "entities": ["young", "younng"]}
+{"key": "typo|typo-light|2", "entities": ["light", "lights"]}
+{"key": "typo|typo-water|6", "entities": ["water"]}
+{"key": "typo|typo-together|3", "entities": []}
+{"key": "typo|typo-already2|4", "entities": ["finished", "done"]}
+{"key": "typo|typo-already2|6", "entities": ["ready"]}
+{"key": "typo|bf-typo-wednesday|7", "entities": ["Wednesday"]}
+{"key": "typo|typo-something|4", "entities": []}
+{"key": "typo|typo-light|7", "entities": ["light"]}
+{"key": "typo|bf-typo-mistake|5", "entities": ["mistake"]}
+{"key": "typo|typo-study|4", "entities": []}
+{"key": "typo|typo-special|8", "entities": ["special"]}
+{"key": "typo|typo-until|4", "entities": []}
+{"key": "typo|bf-typo-sugar|5", "entities": ["sugar", "suger for...", "suger", "sugar"]}
+{"key": "multihop|b3-mh-greatwall-river|1", "entities": ["Yangtze", "Huanghe", "Yellow River"]}
+{"key": "typo|bf-typo-beautiful|2", "entities": []}
+{"key": "multihop|roman-rings-olympic|7", "entities": ["five", "5"]}
+{"key": "typo|typo-village|6", "entities": ["in", "that"]}
+{"key": "association|b3-as-tennis|5", "entities": []}
+{"key": "typo|typo-local|5", "entities": ["local"]}
+{"key": "association|b3-as-vaccination|2", "entities": []}
+{"key": "association|b4-as-avalanche|4", "entities": []}
+{"key": "association|b3-as-troy|5", "entities": ["Trojan horse"]}
+{"key": "association|b5-as-easter|3", "entities": []}
+{"key": "typo|typo-within|4", "entities": []}
+{"key": "association|b3-as-skateboard|2", "entities": []}
+{"key": "typo|typo-change|2", "entities": []}
+{"key": "association|b5-as-pinocchio|1", "entities": ["Pinocchio"]}
+{"key": "association|b5-as-easter|9", "entities": ["Easter"]}
+{"key": "typo|bf-typo-tomorrow|4", "entities": ["tomorow"]}
+{"key": "association|b4-as-dominoes|10", "entities": []}
+{"key": "association|b3-as-subway|3", "entities": []}
+{"key": "typo|typo-program|8", "entities": ["program", "programms"]}
+{"key": "association|b5-as-pinocchio|6", "entities": ["Pinocchio"]}
+{"key": "association|b3-as-vineyard|3", "entities": ["grapes", "berries"]}
+{"key": "typo|bf-typo-schedule|6", "entities": []}
+{"key": "typo|typo-program|9", "entities": ["program", "of", "when"]}
+{"key": "association|dawn|3", "entities": []}
+{"key": "association|b5-as-goldrush|1", "entities": []}
+{"key": "typo|typo-program|6", "entities": ["program", "programme"]}
+{"key": "association|b5-as-knitting|5", "entities": []}
+{"key": "association|b4-as-dominoes|8", "entities": ["dominoes", "mahjong", "pinball"]}
+{"key": "association|fired|8", "entities": []}
+{"key": "typo|typo-security|7", "entities": []}
+{"key": "association|b4-as-avalanche|6", "entities": ["avalanche", "storm"]}
+{"key": "typo|bf-typo-umbrella|4", "entities": ["umbrella"]}
+{"key": "association|b5-as-piano|2", "entities": []}
+{"key": "association|b3-as-museum|10", "entities": []}
+{"key": "association|b3-as-pottery|2", "entities": ["potter", "pottery studio"]}
+{"key": "association|b3-as-magician|0", "entities": []}
+{"key": "association|time-h|2", "entities": []}
+{"key": "association|desert|3", "entities": []}
+{"key": "association|b3-as-weightlifting|3", "entities": []}
+{"key": "typo|typo-material|6", "entities": ["material"]}
+{"key": "association|b3-as-blacksmith|4", "entities": []}
+{"key": "basic_readout|br-proc-arith-5_1|5", "entities": ["6"]}
+{"key": "association|bf2-submarine|0", "entities": []}
+{"key": "association|b3-as-barbecue|7", "entities": ["barbecue smoke"]}
+{"key": "association|bf-sherlock|7", "entities": ["Sherlock Holmes"]}
+{"key": "association|b3-as-surgery|3", "entities": []}
+{"key": "association|b3-as-lifeguard|5", "entities": ["the lifeguard", "teacher"]}
+{"key": "association|b5-as-icefishing|4", "entities": []}
+{"key": "basic_readout|br-proc-arith-6-2|6", "entities": ["3"]}
+{"key": "association|b3-as-sauna|8", "entities": []}
+{"key": "association|bf2-barber|8", "entities": []}
+{"key": "basic_readout|br-proc-arith-6-2|2", "entities": ["3"]}
+{"key": "basic_readout|br-proc-arith-7_2|5", "entities": ["9"]}
+{"key": "association|b3-as-davinci|2", "entities": ["Leonardo da Vinci"]}
+{"key": "association|b5-as-knitting|7", "entities": []}
+{"key": "basic_readout|br-proc-dayafter-friday|4", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-arith-9-5|1", "entities": ["3"]}
+{"key": "basic_readout|br-proc-arith-5_1|1", "entities": ["6"]}
+{"key": "association|b4-as-juggling|3", "entities": []}
+{"key": "basic_readout|br-proc-arith-6-2|7", "entities": ["3"]}
+{"key": "basic_readout|br-proc-arith-7_2|1", "entities": ["9"]}
+{"key": "basic_readout|br-proc-arith-7_2|7", "entities": ["9"]}
+{"key": "basic_readout|br-proc-arith-8_2|5", "entities": ["2"]}
+{"key": "basic_readout|br-proc-arith-8_2|8", "entities": ["2"]}
+{"key": "basic_readout|br-proc-dayafter-monday|5", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-dayafter-sunday|2", "entities": ["Monday"]}
+{"key": "basic_readout|br-proc-dayafter-monday|7", "entities": ["Tuesday", "its..."]}
+{"key": "basic_readout|br-proc-dayafter-monday|3", "entities": ["Tuesday"]}
+{"key": "typo|typo-program|2", "entities": []}
+{"key": "basic_readout|br-proc-arith-9-5|5", "entities": ["4", "3", "are"]}
+{"key": "basic_readout|br-proc-daybefore-sunday|4", "entities": ["Saturday"]}
+{"key": "basic_readout|br-proc-dayafter-sunday|4", "entities": ["Monday"]}
+{"key": "basic_readout|br-proc-dayafter-tuesday|2", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-daybefore-monday|4", "entities": ["Tuesday", "the previous day"]}
+{"key": "basic_readout|br-proc-daybefore-saturday|3", "entities": ["Saturday"]}
+{"key": "basic_readout|br-proc-dayafter-tuesday|4", "entities": ["Tuesday", "next Tuesday"]}
+{"key": "association|b3-as-skiing|1", "entities": []}
+{"key": "basic_readout|br-proc-dayafter-thursday|4", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-daybefore-monday|3", "entities": ["Sunday"]}
+{"key": "basic_readout|br-proc-daybefore-thursday|3", "entities": ["Sunday"]}
+{"key": "basic_readout|br-proc-daybefore-monday|5", "entities": ["Sunday"]}
+{"key": "basic_readout|br-proc-daybefore-sunday|8", "entities": ["Saturday", "Monday"]}
+{"key": "basic_readout|br-proc-dayafter-saturday|3", "entities": ["Tuesday"]}
+{"key": "association|desert|10", "entities": []}
+{"key": "basic_readout|br-proc-monthafter-april|5", "entities": ["April"]}
+{"key": "association|bf2-volcano|2", "entities": []}
+{"key": "basic_readout|br-proc-daybefore-friday|4", "entities": ["Thursday"]}
+{"key": "basic_readout|br-proc-monthafter-december|2", "entities": ["January"]}
+{"key": "basic_readout|br-proc-daybefore-wednesday|3", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-monthafter-january|2", "entities": ["February"]}
+{"key": "basic_readout|br-proc-monthafter-august|2", "entities": ["November"]}
+{"key": "basic_readout|br-proc-monthafter-january|7", "entities": ["February"]}
+{"key": "basic_readout|br-proc-monthafter-december|4", "entities": ["January", "the next month"]}
+{"key": "basic_readout|br-proc-daybefore-sunday|5", "entities": ["yesterday", "previous day"]}
+{"key": "basic_readout|br-proc-dayafter-wednesday|2", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-monthafter-february|2", "entities": ["March"]}
+{"key": "basic_readout|br-proc-daybefore-wednesday|5", "entities": ["Tuesday"]}
+{"key": "basic_readout|br-proc-monthafter-february|7", "entities": []}
+{"key": "basic_readout|br-proc-monthafter-june|5", "entities": ["July"]}
+{"key": "basic_readout|br-proc-monthafter-may|4", "entities": ["May"]}
+{"key": "association|b3-as-quixote|1", "entities": []}
+{"key": "basic_readout|br-proc-monthafter-july|3", "entities": ["September"]}
+{"key": "association|b3-as-skiing|6", "entities": ["carving turns", "the rush", "wind sound"]}
+{"key": "basic_readout|br-proc-daybefore-thursday|5", "entities": ["Sunday", "Friday"]}
+{"key": "basic_readout|br-imp-cardgame|6", "entities": ["Chess", "beautiful"]}
+{"key": "basic_readout|br-proc-monthafter-march|2", "entities": ["June"]}
+{"key": "basic_readout|br-proc-monthafter-june|8", "entities": ["the next one"]}
+{"key": "basic_readout|br-proc-daybefore-wednesday|8", "entities": []}
+{"key": "basic_readout|br-proc-monthafter-january|4", "entities": ["February"]}
+{"key": "basic_readout|br-imp-color|6", "entities": ["none", "blue", "undefined"]}
+{"key": "basic_readout|br-imp-constellatio|9", "entities": ["Star", "Infinity"]}
+{"key": "association|b4-as-juggling|8", "entities": []}
+{"key": "basic_readout|br-imp-constellatio|7", "entities": []}
+{"key": "basic_readout|br-imp-icecreamflav|5", "entities": ["none", "data", "chocolate"]}
+{"key": "basic_readout|br-proc-monthafter-june|1", "entities": ["July", "June"]}
+{"key": "basic_readout|br-proc-monthafter-january|6", "entities": ["February"]}
+{"key": "basic_readout|br-proc-monthafter-may|8", "entities": ["May"]}
+{"key": "basic_readout|br-imp-holiday|6", "entities": ["warm", "none"]}
+{"key": "basic_readout|br-imp-cartoonchara|5", "entities": ["neutral", "universal", "any"]}
+{"key": "basic_readout|br-imp-kindofweathe|6", "entities": ["all", "neutral"]}
+{"key": "basic_readout|br-imp-flower|4", "entities": []}
+{"key": "basic_readout|br-imp-kindofweathe|4", "entities": ["sunny"]}
+{"key": "typo|typo-local|7", "entities": ["market", "store"]}
+{"key": "basic_readout|br-imp-flower|7", "entities": ["love", "elegantly"]}
+{"key": "basic_readout|br-imp-tree|6", "entities": ["AI"]}
+{"key": "basic_readout|br-imp-programmingl|5", "entities": ["versatile", "Python"]}
+{"key": "basic_readout|br-imp-season|8", "entities": []}
+{"key": "basic_readout|br-imp-typeofdance|9", "entities": ["Inspiring"]}
+{"key": "basic_readout|br-imp-typeofcuisin|6", "entities": ["all", "diverse"]}
+{"key": "basic_readout|br-imp-chesspiece|2", "entities": ["bishop"]}
+{"key": "basic_readout|br-imp-moviegenre|4", "entities": ["None", "Diverse", "AI"]}
+{"key": "basic_readout|br-proc-monthafter-february|6", "entities": ["March"]}
+{"key": "basic_readout|br-imp-typeofbird|5", "entities": ["owl"]}
+{"key": "basic_readout|br-imp-kindofcandy|3", "entities": ["chocolate"]}
+{"key": "basic_readout|br-imp-bookgenre|6", "entities": ["All", "versatile"]}
+{"key": "basic_readout|br-imp-kindofcandy|4", "entities": ["none", "delicious"]}
+{"key": "basic_readout|br-imp-kindofberry|4", "entities": ["none", "love"]}
+{"key": "association|b5-as-knitting|4", "entities": []}
+{"key": "basic_readout|br-imp-mythicalcrea|4", "entities": ["Dragon", "Spark"]}
+{"key": "association|grief|0", "entities": []}
+{"key": "basic_readout|br-imp-typeofdance|6", "entities": ["Ballet", "All"]}
+{"key": "basic_readout|br-imp-typeofsoup|5", "entities": ["bisque", "delicious"]}
+{"key": "basic_readout|br-imp-season|6", "entities": ["blue", "neutral"]}
+{"key": "basic_readout|br-imp-bookgenre|8", "entities": ["All"]}
+{"key": "basic_readout|br-imp-fruit|8", "entities": ["love", "green", "neutral"]}
+{"key": "basic_readout|br-imp-pizzatopping|6", "entities": ["code", "pizza", "undefined"]}
+{"key": "association|b3-as-weightlifting|7", "entities": []}
+{"key": "association|b3-as-sauna|5", "entities": ["Finnish sauna", "hot spring"]}
+{"key": "typo|typo-security|5", "entities": ["guards", "measures"]}
+{"key": "association|b4-as-dominoes|3", "entities": []}
+{"key": "association|space-h|8", "entities": []}
+{"key": "association|b3-as-museum|4", "entities": []}
+{"key": "association|b4-as-juggling|5", "entities": []}
+{"key": "association|bf-sherlock|2", "entities": []}
+{"key": "association|b3-as-birthday|2", "entities": []}
+{"key": "association|b3-as-prison|9", "entities": []}

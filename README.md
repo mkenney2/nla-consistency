@@ -24,7 +24,11 @@ Keeping claims stated in at least 2 of 8 samples cuts false claims about the inp
 87% of workspace claims, with no source text. For claims about internal computation, about a third of the wrong
 ones repeat in at least 7 of 8 samples: the NLA rebuilds a consistent wrong copy of the task ("10 − 1 =" read as
 "2 − 1 =", answer 1). The preceding-token check still separates right from wrong among those (AUROC 0.67). On
-random vectors 29% of the NLA's claims are self-consistent, so consistency is evidence, not proof.
+random vectors 29% of the NLA's claims are self-consistent, so consistency is evidence, not proof. Leaving
+each family out in turn, the threshold rule re-selects ≥2 of 8 in four of five families and the held-out numbers
+match (38% → 12%, 86% kept). A lens adds a second, independent check: for claims that name a specific word,
+whether the [J++ Lens](https://www.lesswrong.com/posts/nc9dHfcB22JdMzGbr) ranks it in its top 50 at the same
+vector lifts the AUROC from 0.77 to 0.81 (0.72 to 0.83 among claims the NLA repeats, only 28 of them wrong).
 
 **2. The NLA reads operands from the subspace the model uses, but imprecisely.** On 600 "a ± b =" prompts, a
 linear probe reads both operands from the layer-42 activation exactly 83–93% of the time. The NLA, reading the same
@@ -39,7 +43,9 @@ The NLA follows 18 class-mean directions almost as well as the whole vector, and
 probe relies on, which move the probe 89–97% of the time but leave the NLA at the random level. The model behaves
 the same way where we can see it (one-digit operands: class-mean swaps change its answer 28% of the time,
 probe-weight swaps never). So part of the probe's lead comes from directions neither the model at this position nor
-the NLA uses; on the directions that matter, the NLA tracks the operand but imprecisely.
+the NLA uses; on the directions that matter, the NLA tracks the operand but imprecisely. A third reader agrees: the
+J++ Lens, unlike the J-Lens and R-Lens, reads the one-digit operand, and it follows the class-mean swap (40%;
+whole vector 51%) but not the probe-weight swap (2%) or random directions (1%).
 
 Why NLAs confabulate (a reconstruction reward that pays for pseudo-quotes and ignores false specifics) is covered by
 [Anurin](https://www.lesswrong.com/posts/4nZwNPyfoadAxPH98/natural-language-autoencoders-are-summarizers-but-do-they),
@@ -52,7 +58,7 @@ Why NLAs confabulate (a reconstruction reward that pays for pseudo-quotes and ig
 | Path | What |
 | --- | --- |
 | `notebook.ipynb` | Every number and figure above, recomputed from `data/` (CPU only, a few seconds) |
-| `data/` | Claim labels, agreement counts, NLA samples, control vectors, arithmetic probes and readouts, steering test (described in the notebook) |
+| `data/` | Claim labels, agreement counts, NLA samples, control vectors, arithmetic probes and readouts, steering test, lens readouts (described in the notebook) |
 | `figures/` | The figures the notebook writes, plus the graphical abstract |
 | `scripts/` | The pipeline that produced `data/` (GPU and API steps) |
 
@@ -66,7 +72,9 @@ uv run --no-project --with jupyter --with matplotlib jupyter lab notebook.ipynb
 
 One open NLA, one layer and checkpoint; claim labels from one Gemini judge (every wrong internal claim checked by
 hand); the preceding-token check also drops many correct claims; the arithmetic result covers operands, not computed results, and
-"the model uses these directions" rests on one-digit operands (patching at "=" alone cannot change a two-digit answer).
+"the model uses these directions" rests on one-digit operands (patching at "=" alone cannot change a two-digit answer). The
+internal-claim AUROC rests on three families (multihop, basic readout, poetry); typo and association have one
+wrong claim each.
 
 ## Reproducing `data/`
 
